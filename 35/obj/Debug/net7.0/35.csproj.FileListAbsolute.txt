@@ -1,0 +1,15 @@
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.csproj.AssemblyReference.cache
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.AssemblyInfoInputs.cache
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.AssemblyInfo.cs
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.csproj.CoreCompileInputs.cache
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/bin/Debug/net7.0/35
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/bin/Debug/net7.0/35.deps.json
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/bin/Debug/net7.0/35.runtimeconfig.json
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/bin/Debug/net7.0/35.dll
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/bin/Debug/net7.0/35.pdb
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.dll
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/refint/35.dll
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.pdb
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/35.genruntimeconfig.cache
+/Users/evgenijklimov/Desktop/Seminar5_DomashneeZadanie5/35/obj/Debug/net7.0/ref/35.dll
